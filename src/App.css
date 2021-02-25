@@ -6,7 +6,7 @@
 
 html,
 body {
-  background: #d9aa00 url("img/bbimg.png") repeat-x center center/cover;
+  background: #000000 url("img/bg.jpg") no-repeat center center/cover;
   height: 100vh;
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
@@ -73,7 +73,6 @@ input[type="text"] {
   background-color: transparent;
   height: 300px;
   perspective: 1000px;
-  border: 1px solid white;
 }
 
 .card h1 {
